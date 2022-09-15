@@ -19,6 +19,8 @@ If u love what I'm doing or are just looking for a web developper contact me to 
 
 I'm on this adventure and ready to overcome all obstacles, follow me if u want to see me realize my dreams. Stay tuned. hehe
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 **languages and tools:**  
 
@@ -41,7 +43,10 @@ Libraries & Frameworks :
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rLelouch&show_icons=true&theme=gotham" alt="samm" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rLelouch&theme=radical&hide_langs_below=8)
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br />
+
+![](https://github-readme-stats.vercel.app/api?username=rLelouch&show_icons=true&theme=radical&count_private=true)
+
 
