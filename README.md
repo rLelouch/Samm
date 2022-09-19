@@ -11,7 +11,7 @@
 Hi, I'm Samm aka rLelouch, because Lelouch Vi Britannia is one of my favourite character because he has a vision and he is quite determine as me lul.
 
 I represent myself as an 🦉 because I'm quite wise and calm and also as determine as a 🐍. 
-Web & Mobile developpement student, my goal is to become an AI engineer. But for now, with my knowledge in Web developement and at this stage of my studies,
+Web & Mobile developement student, my goal is to become an AI engineer. But for now, with my knowledge in Web developement and at this stage of my studies,
 I'm just looking for a job as a freelance web developer.
 
 
