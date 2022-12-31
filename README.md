@@ -10,9 +10,7 @@
 * I am interested in computer science, looking to specialize in cybersecurity
 * That's why im study
 
-If u love what I'm doing or are just looking for a web developper contact me to this [email](mailto:lerouxsammuel67@gmail.com) :)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rLelouch&theme=radical&hide_langs_below=8)
+If u love what I'm doing or are just looking for a web developper reach me at : [lerouxsammuel67@gmail.com](mailto:lerouxsammuel67@gmail.com) :)
 
 ![](https://github-readme-stats.vercel.app/api?username=rLelouch&show_icons=true&theme=radical&count_private=true)
 
