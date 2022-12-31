@@ -15,7 +15,7 @@ If u love what I'm doing or are just looking for a web developper reach me at : 
 
 ![](https://github-readme-stats.vercel.app/api?username=rLelouch&show_icons=true&theme=radical&count_private=true)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="250" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rLelouch&theme=radical&hide_langs_below=8)
 
