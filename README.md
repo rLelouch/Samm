@@ -4,8 +4,6 @@
   <img align="left" alt="Samm's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rLelouch.rLelouch)
-
 <br />
 
 Hi, I'm Sammuel aka rLelouch, because Lelouch Vi Britannia is one of my favourite character.
