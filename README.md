@@ -6,13 +6,13 @@
 
 <br />
 
-Hi, I'm Sammuel aka rLelouch, because Lelouch Vi Britannia is one of my favourite character.
+* Hi, I'm Sammuel aka rLelouch, because Lelouch Vi Britannia is one of my favourite character
+* I am interested in computer science, looking to specialize in cybersecurity
+* That's why im study
 
 If u love what I'm doing or are just looking for a web developper contact me to this [email](mailto:lerouxsammuel67@gmail.com) :)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rLelouch&theme=radical&hide_langs_below=8)
-
-<br />
 
 ![](https://github-readme-stats.vercel.app/api?username=rLelouch&show_icons=true&theme=radical&count_private=true)
 
