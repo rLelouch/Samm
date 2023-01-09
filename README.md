@@ -9,7 +9,7 @@
 * Hi, I'm Sammuel aka rLelouch, because Lelouch Vi Britannia is one of my favourite character
 * I am interested in computer science, looking to specialize in cybersecurity
 
-If u love what I'm doing or are just looking for a web developper reach me at : [lerouxsammuel67@gmail.com](mailto:lerouxsammuel67@gmail.com) :)
+If u love what I'm doing reach me at : [lerouxsammuel67@gmail.com](mailto:lerouxsammuel67@gmail.com) :)
 
 📈 my github stats
 
