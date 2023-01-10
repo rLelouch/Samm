@@ -6,7 +6,7 @@
 
 <br />
 
-* Hi, I'm Sammuel aka rLelouch, because Lelouch Vi Britannia is one of my favourite character
+* Hi, I'm Sammuel aka rLelouch, because Lelouch Vi Britannia is one of my favorite character
 * I am interested in computer science, looking to specialize in cybersecurity
 
 If u love what I'm doing reach me at : [lerouxsammuel67@gmail.com](mailto:lerouxsammuel67@gmail.com) :)
